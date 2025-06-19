@@ -32,27 +32,5 @@ The goal of the Workshop is to equip developers with practical skills and knowle
 - React
 - npm
 
-### Installation
-1. Clone the repository:
-    ```sh
-    git clone [https://dcchsrdvdev01.ddc.mydorma.com/tfs/KBR_Exos/exos/_git/Exos%20Frontend%20Workshop](https://github.com/JoeyAsh/react-workshop.git)
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd your-project
-    ```
-
-### Running the Application
-To start the development server:
-```sh
-npm run dev
-```
-
-### Building the Application
-To create a production build:
-```sh
-npm run build
-```
-
 ### Additional Information
 For more details on how to use the tools and libraries, refer to their official documentation linked above.
