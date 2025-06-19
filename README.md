@@ -1,11 +1,11 @@
-# Exos Frontend Workshop October 2024
+# Frontend Workshop
 
 ## Description
-Welcome to the Exos Frontend Workshop! This workshop is designed to help developers get hands-on experience with modern frontend development using React, React Router, Redux Toolkit, Material-UI (MUI), and Vite. Throughout the workshop, participants will learn how to set up a React project, manage state with Redux, style components with MUI, and optimize their development workflow with Vite. By the end of the workshop, attendees will have built a fully functional frontend application and gained valuable insights into best practices and advanced techniques in frontend development.
+Welcome to the Frontend Workshop! This workshop is designed to help developers get hands-on experience with modern frontend development using React, React Router, Redux Toolkit, Material-UI (MUI), and Vite. Throughout the workshop, participants will learn how to set up a React project, manage state with Redux, style components with MUI, and optimize their development workflow with Vite. By the end of the workshop, attendees will have built a fully functional frontend application and gained valuable insights into best practices and advanced techniques in frontend development.
 
 ## Goal
 
-The goal of the Exos Frontend Workshop is to equip developers with practical skills and knowledge in modern frontend development using React, React Router, Redux Toolkit, Material-UI (MUI), and Vite. By the end of the workshop, participants will have:
+The goal of the Workshop is to equip developers with practical skills and knowledge in modern frontend development using React, React Router, Redux Toolkit, Material-UI (MUI), and Vite. By the end of the workshop, participants will have:
 
 1. **Set up a React project** from scratch using Vite.
 2. **Managed state** effectively with Redux Toolkit.
@@ -35,11 +35,11 @@ The goal of the Exos Frontend Workshop is to equip developers with practical ski
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://dcchsrdvdev01.ddc.mydorma.com/tfs/KBR_Exos/exos/_git/Exos%20Frontend%20Workshop
+    git clone [https://dcchsrdvdev01.ddc.mydorma.com/tfs/KBR_Exos/exos/_git/Exos%20Frontend%20Workshop](https://github.com/JoeyAsh/react-workshop.git)
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo
+    cd your-project
     ```
 
 ### Running the Application
